@@ -1,0 +1,4 @@
+﻿  Cesta.cpp
+C:\Users\danes\Desktop\Ukol_3\Ukol_3\Cesta.cpp(61,18): warning C4267: inicializování: Převod z: size_t na: int, může dojít ke ztrátě dat.
+C:\Users\danes\Desktop\Ukol_3\Ukol_3\Cesta.cpp(62,18): warning C4267: inicializování: Převod z: size_t na: int, může dojít ke ztrátě dat.
+  Ukol_3.vcxproj -> C:\Users\danes\Desktop\Ukol_3\x64\Debug\Ukol_3.exe

@@ -1,0 +1,4 @@
+﻿  Ukol_1.cpp
+C:\Users\danes\Desktop\Ukol_1\Ukol_1\Ukol_1.cpp(14,20): warning C4267: return: Převod z: size_t na: int, může dojít ke ztrátě dat.
+C:\Users\danes\Desktop\Ukol_1\Ukol_1\Ukol_1.cpp(22,25): warning C4267: inicializování: Převod z: size_t na: int, může dojít ke ztrátě dat.
+  Ukol_1.vcxproj -> C:\Users\danes\Desktop\Ukol_1\x64\Debug\Ukol_1.exe

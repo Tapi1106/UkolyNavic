@@ -1,0 +1,3 @@
+﻿  Dámy.cpp
+C:\Users\danes\Desktop\Ukol_2\Ukol_2\Dámy.cpp(18,11): warning C4267: inicializování: Převod z: size_t na: int, může dojít ke ztrátě dat.
+  Ukol_2.vcxproj -> C:\Users\danes\Desktop\Ukol_2\x64\Debug\Ukol_2.exe
